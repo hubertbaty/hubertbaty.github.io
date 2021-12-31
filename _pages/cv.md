@@ -58,3 +58,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+[Test](https://hal.archives-ouvertes.fr/cel-02164507)
