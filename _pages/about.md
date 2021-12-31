@@ -31,3 +31,7 @@ redirect_from:
 ## Avertissement
 Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma discipline à un public aussi large que possible. Le but est aussi de transmettre/diffuser des informations et documents à des étudiants francophones (le français est la langue principalement utilisée) de différents niveaux d'étude souhaitant s'initier à la MHD et/ou aux techniques de simulations numériques utilisées pour résoudre des problèmes décrits par les équations différentielles.
 ​(merci de faire remonter vos avis)
+
+---
+
+
