@@ -10,9 +10,11 @@ redirect_from:
 
 ![](/images/image.jpg)
 
-```diff
 (Crédit NASA)
-```
+
+
+
+
 
 ## Qui suis-je
 
