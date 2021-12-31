@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/image.jpg)
+![NASA credit](/images/image.jpg)
 
 ## Qui suis-je
 
