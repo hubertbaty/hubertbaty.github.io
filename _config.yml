@@ -84,10 +84,10 @@ author:
   bio              : "Enseignant-chercheur en astrophysique"
   location         : "Strasbourg, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=-p34s1EAAAAJ&hl=fr&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Hubert-Baty"
+  researchgate     :  "https://www.researchgate.net/profile/Hubert-Baty"
   uri              :
   bitbucket        :
   codepen          :
