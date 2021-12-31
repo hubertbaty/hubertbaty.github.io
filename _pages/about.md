@@ -37,7 +37,7 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 (merci de faire remonter vos avis)
 
 ******************************************************************************************************************
-ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 
 ## C'est quoi un plasma ?
