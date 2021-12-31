@@ -24,7 +24,7 @@ redirect_from:
 ## Spécialité de recherche
 - Physique des plasmas, description magnétohydrodynamique (MHD en abrégé)
 - Modélisation théorique et numérique
-- Modélisation théorique et numérique
+- Instabilités magnétohydrodynamiques, mécanismes de 'reconnexion' magnétique
 - Applications aux plasmas de laboratoires, couronnes stellaires, jets de matière magnétisée autour des étoiles, galaxies ...
 
 ## Contenu du blog
@@ -38,5 +38,8 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 
 ---
 ---
+
+## C'est quoi un plasma ?
+A venir bientôt ... 
 
 
