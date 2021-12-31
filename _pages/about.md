@@ -18,7 +18,7 @@ redirect_from:
 
 ## Qui suis-je
 
-- Maitre de conférences à l'Université de Strasbourg depuis 1992​, HDR (2003)
+- Maitre de conférences à l'Université de Strasbourg depuis 1992, HDR (2003)
 - Enseignant-chercheur à l'Observatoire Astronomique de Strasbourg
 
 ## Spécialité de recherche
@@ -37,6 +37,7 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 (merci de faire remonter vos avis)
 
 ******************************************************************************************************************
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ******************************************************************************************************************
 
 ## C'est quoi un plasma ?
