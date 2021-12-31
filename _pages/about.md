@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![](/images/image.jpg)
+
 ## Qui suis-je
 
 - Maitre de conférences à l'Université de Strasbourg depuis 1992​, HDR (2003)
