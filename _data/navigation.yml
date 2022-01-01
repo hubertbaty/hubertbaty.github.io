@@ -13,7 +13,7 @@ main:
  #   url: /diffusion/
  
  - title: "Ma recherche"
- #   url: /recherche/
+    url: /recherche/
     
  #  - title: "Publications"
  #   url: /publications/
