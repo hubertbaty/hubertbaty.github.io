@@ -3,6 +3,9 @@ main:
   - title: "CV"
  #   url: /cv/ 
  
+ - title: "Plasmas et MHD"
+ #   url: /plasmas/ 
+ 
   - title: "Diffusion"
  #   url: /diffusion/
     
