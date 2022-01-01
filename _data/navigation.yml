@@ -3,7 +3,7 @@ main:
   - title: "CV"
     
   - title: "Diffusion"
-    url: /diffusion/
+ #   url: /diffusion/
     
   - title: "Publications"
     url: /publications/
