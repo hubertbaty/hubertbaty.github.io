@@ -12,8 +12,8 @@ main:
   - title: "Numérique"
  #   url: /diffusion/
  
- - title: "Ma recherche"
-    url: /recherche/
+  - title: "Ma recherche"
+ #   url: /recherche/
     
  #  - title: "Publications"
  #   url: /publications/
