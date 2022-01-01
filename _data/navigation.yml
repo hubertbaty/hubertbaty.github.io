@@ -3,10 +3,10 @@ main:
   - title: "CV"
  #   url: /cv/ 
  
- - title: "Plasmas"
+  - title: "Plasmas"
  #   url: /plasmas/ 
  
- - title: "MHD"
+  - title: "MHD"
  #   url: /MHD/ 
  
   - title: "Diffusion"
