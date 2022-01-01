@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Diffusion"
-permalink: /diffusion/
+title: "Numérique"
+permalink: /numerique/
 author_profile: true
 redirect_from:
   - /resume
