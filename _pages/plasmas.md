@@ -1,7 +1,7 @@
 
 ---
 layout: archive
-title: "Plasmas et MHD"
+title: "Plasmas"
 permalink: /plasmas/
 author_profile: true
 redirect_from:
