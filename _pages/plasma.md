@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-![](/images/image.jpg)
+![](/images/pla.png)
 
 
 C'est quoi un plasma ?
