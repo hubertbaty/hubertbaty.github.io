@@ -10,6 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-C'est quoi un polasma ?
+C'est quoi un plasma ?
 ======
 
