@@ -26,13 +26,15 @@ de milliers de degrés Kelvin.
 de degré d'ionisation $\alpha$ plus ou moins proche de l'unité. Celui ci est défini de la façon suivante,
 $\alpha = \frac{n_e}{n_e+n_n}$ avec $n_e$ la densité électronique et $n_n$ la densité de neutres. Un plasma complètement ionisé correspond ainsi à
 $\alpha = 1$.
-* L'ionisation peut-être aussi obtenu par décharge électrique dans un gaz.
+* L'ionisation peut-être aussi obtenue par décharge électrique dans un gaz.
 
 
  
 Exemples de plasmas
 ======
-* Skill 1
+* En astrophysique de nombreux objets astronomiques comme les étoiles, les disques d'accrétion, les nébuleuses, et le milieu interstellaire sont composés
+de plasma. On parle alors de plasmas naturels, par opposé aux plasmas de laboratoires (comme par exemple ceux créés dans le but de réaliser la fusion
+thermonucléaire).
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
