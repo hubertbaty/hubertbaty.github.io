@@ -24,11 +24,13 @@ dépend de la composition. Ainsi, ceci permet d'ioniser le gaz par 'arrachement'
 de milliers de degrés Kelvin.
 * L'ionisation est plus ou moins forte selon que le nombre restant d'atomes (ou molécules) neutres est plus ou moins grand. En pratique, on parle
 de degré d'ionisation $\alpha$ plus ou moins proche de l'unité. Celui ci est défini de la façon suivante,
-$\alpha = \frac{n_e}{n_e+n_n}$ avec $n_e$ la densité électronique et $n_n$ la densité de neutres.
+$\alpha = \frac{n_e}{n_e+n_n}$ avec $n_e$ la densité électronique et $n_n$ la densité de neutres. Un plasma complètement ionisé correspond ainsi à
+$\alpha = 1$.
+* L'ionisation peut-être aussi obtenu par décharge électrique dans un gaz.
 
 
  
-Skills
+Exemples de plasmas
 ======
 * Skill 1
 * Skill 2
@@ -37,7 +39,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-  $u_n = \mu$
-  
-
-[Test](https://hal.archives-ouvertes.fr/cel-02164507)
+ 
