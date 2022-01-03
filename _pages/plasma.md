@@ -15,9 +15,10 @@ redirect_from:
 
 C'est quoi un plasma ?
 ======
-* Un plasma est un milieu contenant des ions (chargés positivement car issus d'atomes ou ayant perdu un ou plusieurs électrons), des
+* Un plasma est un milieu contenant des ions (chargés positivement car issus d'atomes ayant perdu un ou plusieurs électrons), des
 électrons libres, et des atomes neutres. Les ions peuvent être multi-chargés. C'est un milieu globalement neutre (charge totale nulle).
-* Un plasma (considéré comme me quatrième état de la matière) peut être obtenu en portant un gaz donné à une température critique.
+* Un plasma (considéré comme me quatrième état de la matière) peut être obtenu en portant un gaz donné à une température supérieure à une valeur critique qui
+dépend de la composition. Par exemple pour l'eau, la température critique 
 
 
 
