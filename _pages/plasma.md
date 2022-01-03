@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-![](/images/pla.png)
+![](/images/pla.png){width=50%}
 
 
 C'est quoi un plasma ?
@@ -33,14 +33,14 @@ $\alpha = 1$.
 
 ![](/images/Plasma-scaling.png)
 
-(issu de Wikipédia)
+(Figure tirée de Wikipédia)
  
  
 Exemples de plasmas
 ======
 * En astrophysique de nombreux objets astronomiques comme les étoiles, les disques d'accrétion, les nébuleuses, et le milieu interstellaire sont composés
 de plasma. On parle alors de plasmas naturels, par opposé aux plasmas de laboratoires (comme par exemple ceux créés dans le but de réaliser la fusion
-thermonucléaire).
+thermonucléaire). Sur la figure ci-dessus, chacun peut constater la diversité impressionnante de conditions, en termes de température et de densité, régnant au sein de différents plasmas.
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
