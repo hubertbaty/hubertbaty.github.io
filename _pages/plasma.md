@@ -32,6 +32,7 @@ $\alpha = 1$.
 
 
 ![](/images/Plasma-scaling.png)
+
 (issu de Wikipédia)
  
  
