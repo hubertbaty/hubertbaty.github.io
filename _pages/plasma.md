@@ -17,9 +17,14 @@ C'est quoi un plasma ?
 ======
 * Un plasma est un milieu contenant des ions (chargés positivement car issus d'atomes ayant perdu un ou plusieurs électrons), des
 électrons libres, et des atomes neutres. Les ions peuvent être multi-chargés. C'est un milieu globalement neutre (charge totale nulle).
+Le schéma ci-dessus illustre le cas d'un plasma mono-chargé (un ion est constitué d'un seul proton).
 * Un plasma (considéré comme me quatrième état de la matière) peut être obtenu en portant un gaz donné à une température supérieure à une valeur critique qui
-dépend de la composition. Par exemple pour l'eau, la température critique 
-
+dépend de la composition. Ainsi, ceci permet d'ioniser le gaz par 'arrachement' des électrons. La température critique est de l'ordre de quelques
+électrons-volts (en terme d'énergie thermique $kT$, $k$ étant la constante de Boltzmann), ou encore de façon équivalente de plusieurs dizaines
+de milliers de degrés Kelvin.
+* L'ionisation est plus ou moins forte selon que le nombre restant d'atomes (ou molécules) neutres est plus ou moins grand. En pratique, on parle
+de degré d'ionisation $\alpha$ plus ou moins proche de l'unité. Celui ci est défini de la façon suivante,
+$\alpha = \frac{n_e}{n_e+n_n}$ avec $n_e$ la densité électronique et $n_n$ la densité de neutres.
 
 
  
