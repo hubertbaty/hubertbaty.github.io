@@ -30,6 +30,10 @@ $\alpha = 1$.
 * L'ionisation peut-être aussi obtenue par décharge électrique dans un gaz.
 
 
+
+![](/images/Plasma-scaling.png)
+(issu de Wikipédia)
+ 
  
 Exemples de plasmas
 ======
