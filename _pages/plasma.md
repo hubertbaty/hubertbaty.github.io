@@ -15,7 +15,8 @@ redirect_from:
 
 C'est quoi un plasma ?
 ======
-* B.S. in GitHub, GitHub University, 2010-12
+* Un plasma est un milieu contenant des ions (chargés positivement car issus d'atomes ou ayant perdu un ou plusieurs électrons), des
+électrons libres, et des atomes neutres. 
 * M.
 
 
