@@ -43,6 +43,6 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 
 
 ## C'est quoi un plasma ?
-A venir bientôt ... 
+A venir bientôt ... dans l'onglet plasma !
 
 
