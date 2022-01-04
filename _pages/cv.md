@@ -9,17 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education et parcours universitaire
 ======
-* B.S. in 
+* Maitrise de physique fondamentale à l'Université de Nantes (1985)
+* Ingénieur en Génie atomique à l'INSTN (1987)
+* DEA d'Astrophysique à Paris 7 (1989)
+* Doctorat (PHD) en Physique (spécialité Astrophysique) à Paris 7 (1992)
+* Habilitation à diriger les recherches (HDR) à l'Université de Strasbourg (2003)
 
 
-Work experience
+Expérience
 ======
-* Summer 2015: 
+* Stagiaire de recherche au CEA Saclay (avril-juin 1987)
+* Enseignant à l'EAMEA à Cherbourg (1987 à 1988)
+* Stagiaire de recherche au LSEET Toulon (avril-juillet 1989)
+* Allocataire de recherche au CPHT Ecole Polytechnique à Palaiseau, et moniteur à Paris 7 - Jussieu (1989 - 1992)
+* Maitre de conférences classe normale à l'Université de Strasbourg et Observatoire astronomique (1992 - 2009)
+* Maitre de conférences hors classe à l'Université de Strasbourg et Observatoire astronomique (2009 - )
 
-* Fall 2015: Research Assistant
-  * Github University
   
 Skills
 ======
