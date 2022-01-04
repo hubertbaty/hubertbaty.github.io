@@ -48,6 +48,7 @@ Modèles de description des plasmas
 ======
 * Il existe un grand nombre de modèles physiques permettant de décrire la dynamique des plasmas. Le lecteur pourra trouver ci-dessous un résumé très succint. Le modèle MHD sera évidemment plus amplement développé (voir l'onglet correspondant). 
 
+* Le modèle PIC (abbréviation pour 'Particles in Cells')
 * Skill 2
   * Sub-skill 2.1
 * Skill 3 
