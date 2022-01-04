@@ -49,7 +49,7 @@ Modèles de description des plasmas
 * Il existe un grand nombre de modèles physiques permettant de décrire la dynamique des plasmas. Le lecteur pourra trouver ci-dessous un résumé très succint. Le modèle MHD sera évidemment plus amplement développé (voir l'onglet correspondant). 
 
 * Les modèles PIC (abréviation pour 'Particle In Cell')
-  * Ils sont basés sur l'intégration numérique de l'équation du mouvement (seconde loi de Newton de la dynamique) pour chaque particule chargée (de charge $q$, soumise à la force électique $q \vec E$ et la force magnétique $q \vec V \times \vec B$).
+  * Ils sont basés sur l'intégration numérique de l'équation du mouvement (seconde loi de Newton de la dynamique) pour chaque particule chargée (de charge $q$ et masse $m$), soumise à la force électique $q \vec E$ et la force magnétique $q \vec V \times \vec B$.
 * Les modèles dits cinétiques
 * Les modèles dits fluides
   * Sub-skill 2.1
