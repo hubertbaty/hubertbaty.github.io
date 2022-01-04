@@ -27,7 +27,7 @@ de milliers de degrés Kelvin pour $T$. Cependant, certains plasmas peuvent exis
 de degré d'ionisation $\alpha$ plus ou moins proche de l'unité. Celui ci est défini de la façon suivante,
 $\alpha = \frac{n_e}{n_e+n_n}$ avec $n_e$ la densité électronique et $n_n$ la densité de neutres. Un plasma complètement ionisé correspond ainsi à
 $\alpha = 1$.
-* L'ionisation peut-être aussi obtenue par décharge électrique dans un gaz.
+* L'ionisation peut-être aussi obtenue par décharge électrique dans un gaz, ou encore par rayonnement (cas des régions de formation d'étoiles).
 
 
 
@@ -46,12 +46,10 @@ thermonucléaire). Sur la figure ci-dessus, chacun peut constater la diversité 
 
 Modèles de description des plasmas
 ======
-* Il existe un grand nombre de modèles physiques permettant de décrire la dynamique des plasmas. 
+* Il existe un grand nombre de modèles physiques permettant de décrire la dynamique des plasmas. Le lecteur pourra trouver ci-dessous un résumé très succint. Le modèle MHD sera évidemment plus amplement développé (voir l'onglet correspondant). 
 
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3 
 
  
