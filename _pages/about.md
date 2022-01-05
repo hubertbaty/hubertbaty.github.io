@@ -28,8 +28,10 @@ redirect_from:
 - Applications aux plasmas de laboratoires, couronnes stellaires, jets de matière magnétisée autour des étoiles, galaxies ...
 
 ## Contenu du blog
-- Recherche illustrée de nombreuses figures issues de mes différentes publications et présentations
-- Diffusion -> documents pédagogiques sur les techniques numériques pour physiciens et introduction à la MHD
+- Généralités sur les plasmas
+- Introduction et un peu plus à la MHD
+- Ma recherche résumée/illustrée avec de nombreuses figures issues de mes différentes publications et présentations
+- Diffusion avec des documents pédagogiques sur les techniques numériques pour physiciens
 (Les codes et programmes seront fournis via GitHub plus tard)
 
 ## Avertissement
