@@ -47,7 +47,7 @@ thermonucléaire). Sur la figure ci-dessus, chacun peut constater la diversité 
 
 Modèles de description des plasmas
 ======
-* Il existe un grand nombre de modèles physiques permettant de décrire la dynamique des plasmas. Le lecteur pourra trouver ci-dessous un résumé très succint. Le modèle MHD sera évidemment plus amplement développé (voir l'onglet correspondant). 
+* Il existe un grand nombre de modèles physiques permettant de décrire la dynamique des plasmas. Le lecteur pourra trouver ci-dessous un résumé simplifié et très succint. Le modèle MHD sera évidemment plus amplement développé (voir l'onglet correspondant). 
 
 * Les modèles PIC (abréviation pour 'Particle In Cell')
   * Ils sont basés sur l'intégration numérique de l'équation du mouvement (seconde loi de Newton de la dynamique) pour chaque particule chargée (de charge $q$ et masse $m$), soumise à la force électique $q \vec E$ et la force magnétique $q (\vec V \times \vec B)$. Ainsi, un très grand nombre de particules (représentant les ions et électrons) sont implémentés avec un pas de temps $\delta t$ par une technique numérique adaptée dans les champs électrique et magnétiques $\vec E$ et $\vec B$ respectivement. La méthode numérique doit ainsi satisfaire des propriétés particulières de conservation (comme celle de l'énergie), comme par exemple dans les schémas de type Boris. A la fin de cette première étape, la position ainsi que la vitesse de chaque particule sont ainsi déduites.
