@@ -41,6 +41,7 @@ Exemples de plasmas
 * En astrophysique de nombreux objets astronomiques comme les étoiles (l'intérieur comme leur couronne), les disques d'accrétion, les nébuleuses, et le milieu interstellaire sont composés
 de plasma. On peut aussi ajouter les milieux entourant l'atmosphère de la Terre comme l'ionosphère ou de façon plus lointaine la magnetosphère. On parle alors de plasmas naturels, par opposé aux plasmas de laboratoires (comme par exemple ceux créés dans le but de réaliser la fusion
 thermonucléaire). Sur la figure ci-dessus, chacun peut constater la diversité impressionnante de conditions, en termes de température et de densité, régnant au sein de différents plasmas.
+* On s'intéresse ici à des plasmas classiques, c'est dire non-relativistes et non quantiques.
 
 
 
@@ -57,6 +58,6 @@ Modèles de description des plasmas
   * Ils sont utilisés lorsque le plasma étudié est dit non (ou peu) collisionnel, car les collisions sont peu fréquentes et donc influent peu le mouvement des particules (voir schéma ci-dessous). Il s'agit de résoudre l'équation de Vlasov ...
 * Les modèles dits fluides
   * Ces derniers sont utilisés lorsque le plasma étudié est dominé par les collisions. Les modèles se ramènent alors à résoudre des équations de type fluide pour chaque espèce couplées aux équations de Maxwell pour les champs électromagnétiques, et on parle alors de modèle multi-fluide. Le modèle mono-fluide pour lequel le plasma est vu comme un seul fluide conducteur est appelé Magnétohydrodynamique (ou MHD). Ainsi, le plasma est caractérisé par des champs de type densité, vitesse, et énergie cinétique, ... reliés aux paramètres physiques des particules par des intégrales sur la fonction de distribution.
-  * La MHD est constituée d'un premier jeu de trois équations différentielles de conservation permettant de calculer la densité volumique du plasma $\rho$, la vitesse $\vec V$, et la température $T$. Une hypothèse d'équation d'état est aussi nécéssaire pour relier $T$ et $\rho$ à la pression thermique $P_t$. Une équation différentielle supplémentaire (déduite des équations de Maxwell et de la loi d'Ohm) permet aussi d'obtenir le champ magnétique $\vec B$.
+  * La MHD est constituée d'un premier jeu de trois équations différentielles de conservation permettant de calculer la densité volumique du plasma $\rho$, la vitesse $\vec V$ (à ne pas confondre avec la vitesse des particules), et la température $T$. Une hypothèse d'équation d'état est aussi nécéssaire pour relier $T$ et $\rho$ à la pression thermique $P_t$. Une équation différentielle supplémentaire (déduite des équations de Maxwell et de la loi d'Ohm) permet aussi d'obtenir le champ magnétique $\vec B$.
  
  
