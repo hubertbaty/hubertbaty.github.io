@@ -56,6 +56,6 @@ Modèles de description des plasmas
 * Les modèles dits cinétiques
   * Ils sont utilisés lorsque le plasma étudié est dit non (ou peu) collisionnel, car les collisions sont peu fréquentes et donc influent peu le mouvement des particules (voir schéma ci-dessous). Il s'agit de résoudre l'équation de Vlasov ...
 * Les modèles dits fluides
-  * Ces derniers sont utilisés lorsque le plasma étudié est dominé par les collisions.
+  * Ces derniers sont utilisés lorsque le plasma étudié est dominé par les collisions. Les modèles se ramènent alors à résoudre des équations de type fluides pour chaque espèce couplées aux équations de Maxwell pour les champs électromagnétiques. Le modèle mono-fluide pour lequel le plasma est vu comme un seul fluide conducteur est appelé Magnétohydrodynamique (ou MHD).
  
  
