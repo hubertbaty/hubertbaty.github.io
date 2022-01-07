@@ -41,7 +41,7 @@ Exemples de plasmas
 * En astrophysique de nombreux objets astronomiques comme les étoiles (l'intérieur comme leur couronne), les disques d'accrétion, les nébuleuses, et le milieu interstellaire sont composés
 de plasma. On peut aussi ajouter les milieux entourant l'atmosphère de la Terre comme l'ionosphère ou de façon plus lointaine la magnetosphère. On parle alors de plasmas naturels, par opposé aux plasmas de laboratoires (comme par exemple ceux créés dans le but de réaliser la fusion
 thermonucléaire). Sur la figure ci-dessus, chacun peut constater la diversité impressionnante de conditions, en termes de température et de densité, régnant au sein de différents plasmas.
-* On s'intéresse ici à des plasmas classiques, c'est dire non-relativistes et non quantiques.
+* On s'intéresse ici à des plasmas classiques, c'est dire non-relativistes et non quantiques. De plus, on exclut aussi les plasmas dit fortement couplés comme les plasmas froids, pour se focaliser sur les plasmas dilués.
 
 
 
