@@ -69,5 +69,5 @@ Modèles de description des plasmas
 
 La MHD
 ======
- 
+ * Le modèle MHD (équations, obtention, hypothèses) est décrit en détails sur la page correspondante. Cependant, le passage d'un modèle bi-fluide à un modèle mono-fluide mérite ici quelques explications ...
  
