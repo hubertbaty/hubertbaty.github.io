@@ -29,7 +29,7 @@ redirect_from:
 
 ## Contenu du blog
 - Généralités sur les plasmas
-- Introduction et un peu plus à la MHD
+- Introduction (et même un peu plus) à la MHD
 - Ma recherche résumée/illustrée avec de nombreuses figures issues de mes différentes publications et présentations
 - Diffusion avec des documents pédagogiques sur les techniques numériques pour physiciens
 (Les codes et programmes seront fournis via GitHub plus tard)
