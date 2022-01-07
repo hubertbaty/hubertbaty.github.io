@@ -70,5 +70,8 @@ Modèles de description des plasmas
 
 La MHD
 ======
- * Le modèle MHD (équations, obtention, hypothèses) est décrit en détails sur la page correspondante. Cependant, le passage d'un modèle bi-fluide à un modèle mono-fluide mérite ici quelques explications ...
+ * Le modèle MHD (équations, obtention, hypothèses) est décrit en détails sur la page correspondante. Cependant, le passage d'un modèle bi-fluide à un modèle mono-fluide mérite ici quelques explications. Tout d'abord, la densité volumique du plasma $\rho (\vec r, t)$ représente essentiellement celles des ions, car la masse des électrons est négligeable. De même, la vitesse de plasma $\vec V (\vec r, t)$ représente celle des ions. La vitesse des électrons (qui n'est pas un paramètre du modèle MHD) peut s'en déduire à condition de
+connaî
+ * Le modèle MHD (équations, obtention, hypothèses) est décrit en détails sur la page correspondante. Cependant, le passage d'un modèle bi-fluide à un modèle mono-fluide mérite ici quelques explications. Tout d'abord, la densité volumique du plasma $\rho (\vec r, t)$ représente essentiellement celles des ions, car la masse des électrons est négligeable. De même, la vitesse de plasma $\vec V (\vec r, t)$ représente celle des ions. La vitesse des électrons (qui n'est pas un paramètre du modèle MHD) peut s'en déduire à condition de connaiî
+ * Le modèle MHD (équations, obtention, hypothèses) est décrit en détails sur la page correspondante. Cependant, le passage d'un modèle bi-fluide à un modèle mono-fluide mérite ici quelques explications. Tout d'abord, la densité volumique du plasma $\rho (\vec r, t)$ représente essentiellement celles des ions, car la masse des électrons est négligeable. De même, la vitesse de plasma $\vec V (\vec r, t)$ représente celle des ions. La vitesse des électrons (qui n'est pas un paramètre du modèle MHD) peut s'en déduire à condition de connaître la densité de courant électrique $\vec J$, par 
  
