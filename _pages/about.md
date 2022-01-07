@@ -44,7 +44,7 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 
 
 
-## C'est quoi un plasma ?
-A venir bientôt ... dans l'onglet plasma !
+## Notions générales sur les plasmas
+En cours de rédaction actuellement (janvier 2022) ... dans l'onglet plasma !
 
 
