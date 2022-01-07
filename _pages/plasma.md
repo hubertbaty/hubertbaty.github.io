@@ -64,6 +64,7 @@ Modèles de description des plasmas
   
   
   
+![](/images/mod.png)
   
 
 La MHD
