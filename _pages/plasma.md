@@ -26,7 +26,7 @@ de milliers de degrés Kelvin pour $T$. Cependant, certains plasmas peuvent exis
 * L'ionisation est plus ou moins forte selon que le nombre restant d'atomes (ou molécules) neutres est plus ou moins grand. En pratique, on parle
 de degré d'ionisation $\alpha$ plus ou moins proche de l'unité. Celui ci est défini de la façon suivante,
 $\alpha = \frac{n_e}{n_e+n_n}$ avec $n_e$ la densité électronique et $n_n$ la densité de neutres. Un plasma complètement ionisé correspond ainsi à
-$\alpha = 1$. Les modèles décrits ci-dessous concernent essentiellement des plasma sdont l'ionisation est suffisament grande pour que la dynamique de la population des particules neutres soit considérée comme négligeable.
+$\alpha = 1$. Les modèles décrits ci-dessous concernent essentiellement des plasmas dont l'ionisation est suffisament grande pour que la dynamique de la population des particules neutres soit considérée comme négligeable.
 * L'ionisation peut-être aussi obtenue par décharge électrique dans un gaz, ou encore par rayonnement (cas des régions de formation d'étoiles).
 
 
