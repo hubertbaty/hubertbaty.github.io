@@ -20,22 +20,23 @@ Education et parcours universitaire
 
 Expérience
 ======
-* Stagiaire de recherche au CEA Saclay (avril-juin 1987)
-* Enseignant à l'EAMEA à Cherbourg (1987 à 1988)
+* Stagiaire de recherche en physique atomique au CEA Saclay (avril-juin 1987)
+* Enseignant de sciences-physiques à l'EAMEA à Cherbourg (1987 à 1988)
 * Stagiaire de recherche au LSEET Toulon (avril-juillet 1989)
 * Allocataire de recherche au CPHT Ecole Polytechnique à Palaiseau, et moniteur à Paris 7 - Jussieu (1989 - 1992)
 * Maitre de conférences classe normale à l'Université de Strasbourg et Observatoire astronomique (1992 - 2009)
 * Maitre de conférences hors classe à l'Université de Strasbourg et Observatoire astronomique (2009 - )
 
   
-Skills
+Compétences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Développement d'un code de calcul en Fortran nommé XTOR pour la MHD appliquée au tokamak (géométrie torique, schéma semi-implicite, discrétisations spectrales avec Fourier
+dans deux directions et différences finies pour la troisième), collaboration CPHT Ecole Polytechnique et CEA
+* Développement d'un code de calcul en Fortan nommé SCYL pour la MHD appliquée aux boucles solaires (adaptation de XTOR)
+* Développement d'un code en Fortran pour la MHD réduite, utilisant la méthode hyperbolique (schéma aux volumes finis), collaboration avec Hiroaki Nishikawa
+* Développement d'un code avec Freefem++ (basé sur C++) pour la MHD réduite nommé FINMHD
+* Utilisations de nombreux autres codes (Fortran et C++) MHD développés par des collaborateurs
+* Développement de nombreux programmes et codes linéaires pour tester des méthodes numériques et l'enseignement, écrits en langage Fortran, C++, et Matlab
 
 Publications
 ======
