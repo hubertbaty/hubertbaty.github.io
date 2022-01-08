@@ -35,7 +35,7 @@ dans deux directions et différences finies pour la troisième), collaboration C
 * Développement d'un code de calcul en Fortran nommé SCYL pour la MHD appliquée aux boucles solaires (adaptation de XTOR)
 * Développement d'un code en Fortran pour la MHD réduite, utilisant la méthode hyperbolique (schéma aux volumes finis à capture de choc), collaboration avec Hiroaki Nishikawa
 * Développement d'un code avec Freefem++ (basé sur C++) pour la MHD réduite nommé FINMHD
-* Utilisations de nombreux autres codes (Fortran et C++) MHD développés par des collaborateurs, principallement des codes aux volumes finis à capture de chocs (Solvers de Riemann).
+* Utilisations de nombreux autres codes (Fortran et C++) MHD développés par des collaborateurs, principalement des codes aux volumes finis à capture de chocs (Solvers de Riemann)
 * Développement de nombreux programmes et codes linéaires pour tester des méthodes numériques et l'enseignement, écrits en langage Fortran, C++, et Matlab
 
 Publications
