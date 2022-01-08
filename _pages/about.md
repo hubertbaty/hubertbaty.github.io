@@ -31,7 +31,8 @@ redirect_from:
 - Généralités sur les plasmas
 - Introduction (et même un peu plus) à la MHD
 - Ma recherche résumée/illustrée avec de nombreuses figures issues de mes différentes publications et présentations
-- Diffusion accompagnée de documents pédagogiques sur les techniques numériques pour physiciens, pour intégrer des problèmes avec équations différentielles (ordinaires et partielles
+- Diffusion accompagnée de documents pédagogiques sur les techniques numériques pour physiciens, pour intégrer des problèmes avec équations différentielles (ordinaires et partielles).
+
 (Les codes et programmes seront fournis via GitHub plus tard)
 
 ## Avertissement
