@@ -44,7 +44,6 @@ dans deux directions et différences finies pour la troisième), collaboration C
 Publications
 ======
 * Mes différentes publications sont accessibles via les liens Researchgate, GoogleScholar, et le lien suivant NASA/ADS,
-
 [Lien](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20(astronomy%20OR%20physics%20OR%20general)&q=author%3A(%22Baty%2CH%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 Projets de recherche
