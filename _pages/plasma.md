@@ -75,5 +75,6 @@ La MHD
  
  Quelques références
 ======
- * A venir ...
+ * Physique des plasmas, J.L. Delcroix et A. Bers, EDPsciences
+ * Un site très sympa -> http://www.mmelzani.fr
  
