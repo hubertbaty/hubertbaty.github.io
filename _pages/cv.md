@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Ci dessous, un court CV ...
+
+
 Education et parcours universitaire
 ======
 * Maîtrise de physique fondamentale à l'Université de Nantes (1985)
