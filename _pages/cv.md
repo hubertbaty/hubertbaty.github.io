@@ -33,7 +33,7 @@ Compétences
 * Développement d'un code de calcul en Fortran nommé XTOR pour la MHD appliquée au tokamak (géométrie torique, schéma semi-implicite, discrétisations spectrales avec Fourier
 dans deux directions et différences finies pour la troisième), collaboration CPHT Ecole Polytechnique et EURATOM-CEA
 * Développement d'un code de calcul en Fortran nommé SCYL pour la MHD appliquée aux boucles solaires (adaptation de XTOR)
-* Développement d'un code en Fortran pour la MHD réduite, utilisant la méthode hyperbolique (schéma aux volumes finis à capture de choc), collaboration avec Hiroaki Nishikawa
+* Développement d'un code en Fortran pour la MHD réduite, utilisant la méthode hyperbolique (schéma aux volumes finis à capture de choc), collaboration avec Hiroaki Nishikawa (HAMPTON, USA)
 * Développement d'un code avec Freefem++ (basé sur C++) pour la MHD réduite nommé FINMHD
 * Utilisations de nombreux autres codes (Fortran et C++) MHD développés par des collaborateurs, principalement des codes aux volumes finis à capture de chocs (Solvers de Riemann) tels que AMRVAC, PLUTO, ...
 * Développement de nombreux programmes et codes linéaires pour tester des méthodes numériques et pour l'enseignement, écrits en langage Fortran, C++, et Matlab
