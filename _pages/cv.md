@@ -40,9 +40,8 @@ dans deux directions et différences finies pour la troisième), collaboration C
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Mes différentes publications sont accessibles via les liens Researchgate, GoogleScholar, et le lien suivant NASA ADS,
+
   
 Talks
 ======
