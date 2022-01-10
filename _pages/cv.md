@@ -40,6 +40,7 @@ dans deux directions et différences finies pour la troisième), collaboration C
 * Développement d'un code avec Freefem++ (basé sur C++) pour la MHD réduite nommé FINMHD
 * Utilisations de nombreux autres codes (Fortran et C++) MHD développés par des collaborateurs, principalement des codes aux volumes finis à capture de chocs (Solvers de Riemann) tels que AMRVAC, PLUTO, ...
 * Développement de nombreux programmes et codes linéaires pour tester des méthodes numériques et pour l'enseignement, écrits en langage Fortran, C++, et Matlab
+* Utilisation régulier de différentes plateformes nationales de calculs: du CNRS (IDRIS) et du CINES (Montpellier), notamment sur super-calculateurs (CRAY, NEC) de 1989 à 2002, puis de 2003 à 2006, et en 2013. Utilisateur de l’HPC (Méso-centre de calcul haute-performance de Strasbourg), depuis 2013.
 
 Publications
 ======
@@ -61,4 +62,4 @@ Encadrement d'étudiants
 
 Responsabilités passées diverses et variées
 ======
-* Chef d'équipe de recherche pendant 4 ans (2010-2013), membre du Conseil National des Universités (section 34) pendant 4 ans (2011-2015), membre de la société Française de Physique (division plasmas) pendant 4 ans (2005-2009). Membres de réseaux de recherche Français et européens, ...
+* Chef d'équipe de recherche pendant 4 ans (2010-2013), membre du Conseil National des Universités (section 34) pendant 4 ans (2011-2015), membre de la société Française de Physique (division plasmas) pendant 4 ans (2005-2009). Membres de plusieurs réseaux de recherche Français et Européens, ...
