@@ -7,13 +7,13 @@ main:
     url: /plasma/ 
  
   - title: "MHD"
- #   url: /MHD/ 
- 
-  - title: "Numérique"
- #   url: /diffusion/
+ #   url: /MHD/
  
   - title: "Ma recherche"
  #   url: /recherche/
+ 
+  - title: "Numérique"
+ #   url: /diffusion/
     
  #  - title: "Publications"
  #   url: /publications/
