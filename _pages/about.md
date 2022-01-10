@@ -18,7 +18,7 @@ redirect_from:
 
 ## Qui suis-je
 
-- Maitre de conférences à l'Université de Strasbourg depuis 1992, HDR (2003)
+- Maître de conférences à l'Université de Strasbourg depuis 1992, HDR (2003)
 - Enseignant-chercheur à l'Observatoire Astronomique de Strasbourg
 
 ## Spécialité de recherche
