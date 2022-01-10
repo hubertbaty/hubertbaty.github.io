@@ -54,6 +54,9 @@ Enseignement
 
 Encadrement d'étudiants
 ======
-* 
+* Thèses de Doctorat: Mattéo Bocchi (2006-2009) en co-encadrement avec finance- ment européen JETSET, Tohir Akramov (2014-2017) avec financement IDEX.
+* Une dizaine de stages Bac+4 et Bac+5
 
-[Test](https://hal.archives-ouvertes.fr/cel-02164507)
+Responsabilités diverses et variées
+======
+
