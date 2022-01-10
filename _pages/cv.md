@@ -40,26 +40,19 @@ dans deux directions et différences finies pour la troisième), collaboration C
 
 Publications
 ======
-* Mes différentes publications sont accessibles via les liens Researchgate, GoogleScholar, et le lien suivant NASA ADS,
+* Mes différentes publications sont accessibles via les liens Researchgate, GoogleScholar, et le lien suivant NASA/ADS,
 https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20(astronomy%20OR%20physics%20OR%20general)&q=author%3A(%22Baty%2CH%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
-  
-Talks
+Projets de reccherche
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  test
-  $u_n = \mu$
+* Ceux-ci sont relatés dans l'onglet 'Ma recherche'
   
-Teaching
+Enseignement
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Depuis 1987, enseignements de physique (mécanique, électromagnétisme, mécanique des fluides, physique des plasmas, astrophysique), de mathématiques, de calcul numérique et informatique, à tous les niveaux universitaires de Bac+1 à Bac+5
+
+Encadrement d'étudiants
 ======
-* Currently signed in to 43 different slack teams
+* 
 
 [Test](https://hal.archives-ouvertes.fr/cel-02164507)
