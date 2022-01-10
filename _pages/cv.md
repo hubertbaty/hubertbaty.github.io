@@ -43,7 +43,7 @@ dans deux directions et différences finies pour la troisième), collaboration C
 
 Publications
 ======
-* Mes différentes publications sont accessibles via les liens Researchgate, GoogleScholar, et le lien suivant NASA/ADS,
+* Mes différentes publications sont accessibles via les liens Researchgate, GoogleScholar, et le lien suivant NASA/ADS ->
 [Lien](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20(astronomy%20OR%20physics%20OR%20general)&q=author%3A(%22Baty%2CH%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 Projets de recherche
@@ -59,6 +59,6 @@ Encadrement d'étudiants
 * Thèses de Doctorat: Mattéo Bocchi (2006-2009) en co-encadrement avec finance- ment européen JETSET, Tohir Akramov (2014-2017) avec financement IDEX.
 * Une dizaine de stages Bac+4 et Bac+5
 
-Responsabilités diverses et variées
+Responsabilités passées diverses et variées
 ======
-
+* Chef d'équipe de recherche pendant 4 ans (2010-2013), membre du Conseil National des Universités (section 34) pendant 4 ans (2011-2015), membre de la société Française de Physique (division plasmas) pendant 4 ans (2005-2009). Membres de réseaux de recherche Français et européens, ...
