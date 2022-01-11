@@ -78,4 +78,5 @@ La MHD
 ======
  * Physique des plasmas, J.L. Delcroix et A. Bers, EDPsciences
  * Un site très sympa et très bien écrit (notions sur les plasmas) -> http://www.mmelzani.fr
+ * Sur les modèles et la MHD -> 'Ideal MHD', J.P. Friedberg. Voir aussi 'Ideal magnetohydrodynamic theory of magnetic fusion systems', J.P. Friedberg, Rev. Mod. Phys. 54, 801 – Published 1 July 1982
  
