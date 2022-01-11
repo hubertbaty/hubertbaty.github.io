@@ -45,7 +45,7 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 
 
 
-## Notions générales sur les plasmas
-En cours de rédaction actuellement (janvier 2022) ... dans l'onglet plasma !
+## Notions générales sur la MHD
+En cours de rédaction actuellement (janvier 2022) ... dans l'onglet correspondant !
 
 
