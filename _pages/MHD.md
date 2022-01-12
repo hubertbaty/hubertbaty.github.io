@@ -23,6 +23,6 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
   * Il faut noter que la composante $i = x, y, z$ (en cartesien) de $\nabla . ( \overline{\overline {V \rho V }} )$ est $\nabla_j (V_j \rho V_i )$, avec la convention habituelle de somme implicite sur les indices répétés (ici sur l'indice $j$). Il n'y a pas de densité de force électrique à cause de l'hypothèse de quasi-neutralité (voir la partie électromagnétique des équations MHD plus bas dans cette page).
 
 * (3) Equation de conservation de l'énergie. Plusieurs équations sont possibles suivant les hypothèses d'échanges entre les différentes formes d'énergie: énergie cinétique, énergie interne, et énergie électromagnétique. Ici, on considère par exemple une évolution adiabatique conduisant alors à une équation de conservation pour l'énergie interne
-$u = p/(\Gamma - 1)$ d'un plasma dit parfait.
-  *  
+$u$ du plasma.
+  *  $\frac {\partial u} {\partial t} + \nabla . ((u+ P) \vec V) =  ...$
  
