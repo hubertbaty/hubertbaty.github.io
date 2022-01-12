@@ -24,5 +24,5 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
 
 * (3) Equation de conservation de l'énergie. Plusieurs équations sont possibles suivant les hypothèses d'échanges entre les différentes formes d'énergie: énergie cinétique, énergie interne, et énergie électromagnétique. Ici, on considère par exemple une évolution adiabatique conduisant alors à une équation de conservation pour l'énergie interne
 $u$ du plasma.
-  *  $\frac {\partial u} {\partial t} + \nabla . ((u+ P) \vec V) =  ...$
+  *  $\frac {\partial u} {\partial t} + \nabla . ((u+ P) \vec V) =  J^2/ \sigma + \vec V . \nabla P$. 
  
