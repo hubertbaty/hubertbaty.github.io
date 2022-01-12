@@ -18,5 +18,5 @@ Les équations de base de la MHD
   * $\frac {\partial \rho} {\partial t} + \nabla . (\rho \vec V) = 0$
   
 * Equation de conservation de la quantité de mouvement. Celle ci est la plus importante pour la dynamique (équivalent de la seconde loi de Newton qui exprime que la densité de quantité de mouvement $(\rho \vec V)$ varie du fait d'un flux convectif associé, et de création/disparition du fait des densité de forces).
-  * 
+  * nn
  
