@@ -7,7 +7,7 @@ main:
     url: /plasma/ 
  
   - title: "MHD"
- #   url: /MHD/
+    url: /MHD/
  
   - title: "Ma recherche"
  #   url: /recherche/
