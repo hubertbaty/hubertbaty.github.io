@@ -20,4 +20,7 @@ Les équations de base de la MHD
 * (2) Equation de conservation de la quantité de mouvement. Celle ci est la plus importante pour la dynamique (équivalent de la seconde loi de Newton qui exprime que la densité de quantité de mouvement $(\rho \vec V)$ varie du fait d'un flux convectif associé, et aussi de création/disparition du fait des densité de forces). Celle ci se démontre en appliquant la règle pour chaque composante de $(\rho \vec V)$, et fait apparaître un tenseur de rang 2 (terme $\overline{\overline {V \rho V }}$)
 pour le flux associé, et les termes sources qui sont toutes les densités de force s'appliquant en volume sur le plasma (termes de gradient de pression thermique, de force magnétique, et de force visqueuse). Le coefficient $\mu$ est la viscosité dynamique ou le coefficient de dissipation visqueux (unité SI en $m^2/s$). Parfois, il faut aussi ajouter d'autres densités de force comme la force de gravitation lorsque c'est nécessaire, suivant le milieu considéré.
   * $\frac {\partial (\rho \vec V)} {\partial t} + \nabla . ( \overline{\overline {V \rho V }} ) = - \nabla P + \vec J \times \vec B + \mu \nabla^2 \vec V $
+  * Il faut noter que ...
+
+* (3) Equation de conservation de l'énergie.
  
