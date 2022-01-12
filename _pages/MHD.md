@@ -18,9 +18,9 @@ Les équations de base de la MHD
   * $\frac {\partial \rho} {\partial t} + \nabla . (\rho \vec V) = 0$
   
 * (2) Equation de conservation de la quantité de mouvement. Celle ci est la plus importante pour la dynamique (équivalent de la seconde loi de Newton qui exprime que la densité de quantité de mouvement $(\rho \vec V)$ varie du fait d'un flux convectif associé, et aussi de création/disparition du fait des densité de forces). Celle ci se démontre en appliquant la règle pour chaque composante de $(\rho \vec V)$, et fait apparaître un tenseur de rang 2 (terme $\overline{\overline {V \rho V }}$)
-pour le flux associé, et les termes sources qui sont toutes les densités de force s'appliquant en volume sur le plasma (termes de gradient de pression thermique, de force magnétique, et de force visqueuse). Le coefficient $\mu$ est la viscosité dynamique ou le coefficient de dissipation visqueuse (unité SI en kg m^{-1} s^{-1}). Parfois, il faut aussi ajouter d'autres densités de force comme la force de gravitation lorsque c'est nécessaire, suivant le milieu considéré.
+pour le flux associé, et les termes sources qui sont toutes les densités de force s'appliquant en volume sur le plasma (termes de gradient de pression thermique, de force magnétique de Lorentz, et de force visqueuse). Le coefficient $\mu$ est la viscosité dynamique ou le coefficient de dissipation visqueuse (unité SI en kg m^{-1} s^{-1}). Parfois, il faut aussi ajouter d'autres densités de force comme la force de gravitation lorsque c'est nécessaire, suivant le milieu considéré.
   * $\frac {\partial (\rho \vec V)} {\partial t} + \nabla . ( \overline{\overline {V \rho V }} ) = - \nabla P + \vec J \times \vec B + \mu \nabla^2 \vec V $
-  * Il faut noter que la composante $i = x, y, z$ (en cartesien) de $\nabla . ( \overline{\overline {V \rho V }} )$ est $\nabla_j (V_j \rho V_i )$, avec 
+  * Il faut noter que la composante $i = x, y, z$ (en cartesien) de $\nabla . ( \overline{\overline {V \rho V }} )$ est $\nabla_j (V_j \rho V_i )$, avec la convention habituelle de somme implicite sur les indices répétés (ici sur l'indice $j$). Il n'y a pas de densité de force électrique à cause de l'hypothèse de quasi-neutralité (voir la partie éléctromagnétique des équations MHD plus bas dans cette page).
 
-* (3) Equation de conservation de l'énergie.
+* (3) Equation de conservation de l'énergie. 
  
