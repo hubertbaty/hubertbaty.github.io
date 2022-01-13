@@ -29,7 +29,7 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
   *  Equation 3b: $$\boxed{\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma P \nabla . \vec V } $$
   
 * La seconde équation ci-dessus peut aussi sous une autre forme équivalente (obtenue en utilisant la première équation):
-  * Equation 2b: $$\boxed{\frac {\partial \vec V} {\partial t} + (\vec V . \nabla) \vec V = (- \nabla P + \vec J \times \vec B)/\rho + \nu \nabla^2 \vec V} $$. Cette forme fait apparaitre dans le membre de gauche la dérivée Lagrangienne (ou encore appelée en suivant le fluide car c'est la dérivée dans un repère se déplaçant avec le fluide à la vitesse $\vec V$. On note le coefficient de viscosité cinématique $\nu = \mu / \rho$ (unité SI en m^2/s $). Cette équation en l'absence du terme de force magnétique (cas purement hydrodynamique) est en fait l'équation bien connue de Navier-Stokes.
+  * Equation 2b: $$\boxed{\frac {\partial \vec V} {\partial t} + (\vec V . \nabla) \vec V = (- \nabla P + \vec J \times \vec B)/\rho + \nu \nabla^2 \vec V} $$. Cette forme fait apparaitre dans le membre de gauche la dérivée Lagrangienne (ou encore appelée dérivée en suivant le fluide car c'est la dérivée dans un repère se déplaçant avec le fluide à la vitesse $\vec V$. On note le coefficient de viscosité cinématique $\nu = \mu / \rho$ (unité SI en m^2/s). Cette équation en l'absence du terme de force magnétique (cas purement hydrodynamique) est en fait l'équation bien connue de Navier-Stokes.
 
 
 Les équations de base de la MHD (partie électromagnétique)
