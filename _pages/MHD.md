@@ -29,6 +29,7 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
   *  Equation (3b): $$\boxed{\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma P \nabla . \vec V } $$
   
 * La seconde équation ci-dessus peut aussi sous une autre forme équivalente (obtenue en utilisant la première équation):
+  * Equation 2b: $$\boxed{\frac {\partial (\vec V)} {\partial t} + (\vec V . \nabla) \vec V = (- \nabla P + \vec J \times \vec B)/\rho + \nu \nabla^2 \vec V} $$
 
 
 Les équations de base de la MHD (partie électromagnétique)
