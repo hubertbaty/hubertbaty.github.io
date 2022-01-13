@@ -28,6 +28,8 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
   *  Il manque uen équation pour fermer le système (terme employé habituellement dans la litérature) qui est en général l'équation d'état du plasma qui est supposé parfait (à l'image d'un gaz parfait), ainsi on écrit $P = \alpha \rho T$ conduisant à $$\boxed{u = P/ (\Gamma - 1)} $$ ($\Gamma$ étant la constante adiabatique). Ainsi, une autre forme équivalente pour l'équation ci-dessus est,
   *  Equation (3b): $$\boxed{\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma P \nabla . \vec V } $$
   
+* La seconde équation ci-dessus peut aussi sous une autre forme équivalente (obtenue en utilisant la première équation):
+
 
 Les équations de base de la MHD (partie électromagnétique)
 ======
