@@ -26,5 +26,5 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
   *  $\frac {\partial u} {\partial t} + \nabla . ((u+ P) \vec V) =  \vec V . \nabla P$
   *  On notera que le flux associé est maintenant $ (u+ P) \vec V$ (car c'est le flux d'enthalpie qu'il faut considérer), et que le terme source provient du travail des forces de pression (provenant d'un échange avec l'énergie cinétique du plasma). 
   *  Il manque uen équation pour fermer le système (terme employé habituellement dans la litérature) qui est en général l'équation d'état du plasma qui est supposé parfait (à l'image d'un gaz parfait), ainsi on écrit $P = \alpha \rho T$ conduisant à $u = P/ (\Gamma - 1)$ ($\Gamma$ étant la constante adiabatique). Ainsi, une autre forme équivalente pour l'équation ci-dessus est,
-  *  $\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma \nabla . \vec V$
+  *  $\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma P \nabla . \vec V$
  
