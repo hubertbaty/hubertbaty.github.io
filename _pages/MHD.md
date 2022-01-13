@@ -26,10 +26,10 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
   *  Equation 3: $$\boxed{\frac {\partial u} {\partial t} + \nabla . ((u+ P) \vec V) =  \vec V . \nabla P } $$
   *  On notera que le flux associé est maintenant $ (u+ P) \vec V$ (car c'est le flux d'enthalpie qu'il faut considérer), et que le terme source provient du travail des forces de pression (provenant d'un échange avec l'énergie cinétique du plasma). 
   *  Il manque uen équation pour fermer le système (terme employé habituellement dans la litérature) qui est en général l'équation d'état du plasma qui est supposé parfait (à l'image d'un gaz parfait), ainsi on écrit $P = \alpha \rho T$ conduisant à $$\boxed{u = P/ (\Gamma - 1)} $$ ($\Gamma$ étant la constante adiabatique). Ainsi, une autre forme équivalente pour l'équation ci-dessus est,
-  *  Equation (3b): $$\boxed{\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma P \nabla . \vec V } $$
+  *  Equation 3b: $$\boxed{\frac {\partial P} {\partial t} + \vec V . \nabla P = - \Gamma P \nabla . \vec V } $$
   
 * La seconde équation ci-dessus peut aussi sous une autre forme équivalente (obtenue en utilisant la première équation):
-  * Equation 2b: $$\boxed{\frac {\partial (\vec V)} {\partial t} + (\vec V . \nabla) \vec V = (- \nabla P + \vec J \times \vec B)/\rho + \nu \nabla^2 \vec V} $$
+  * Equation 2b: $$\boxed{\frac {\partial \vec V} {\partial t} + (\vec V . \nabla) \vec V = (- \nabla P + \vec J \times \vec B)/\rho + \nu \nabla^2 \vec V} $$. Cette forme fait apparaitre dans le membre de gauche la dérivée Lagrangienne (ou encore appelée en suivant le fluide car c'est la dérivée dans un repère se déplaçant avec le fluide à la vitesse $\vec V$. On note le coefficient de viscosité cinématique $\nu = \mu / \rho$ (unité SI en m^2/s $). Cette équation en l'absence du terme de force magnétique (cas purement hydrodynamique) est en fait l'équation bien connue de Navier-Stokes.
 
 
 Les équations de base de la MHD (partie électromagnétique)
