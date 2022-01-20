@@ -37,8 +37,8 @@ Les équations de base de la MHD (partie électromagnétique)
 * La première équation de Maxwell (dans l'approximation du vide) est celle de Maxwell-Gauss qui relie le champ électrique $\vec E$ à la densité volumique de charge $\rho_c$ en chaque point de l'espace: $\nabla . \vec E = \rho_c/\epsilon_0$. Pour un plasma de type fluide, dont la description est valide sur des échelles spatiales plus grandes que les échelles caractéristiques des particules, la densité de charge est considérée comme nulle (c'est la quasi-neutralité) conduisant ainsi à la première équation:
   * Equation 1E: $$\boxed{\nabla . \vec E = 0} $$
 
-* La seconde équation est celle Maxwell-Ampère qui relie le champ magnétique $\vec B$ à la densité de courant $\vec j$: $\nabla \times \vec B = \mu_0 \vec j + \mu_0 \epsilon_0 \frac {\partial \vec E} {\partial t}$. Le second terme appelé courant de déplacement est négligeable si on s'intéresse à des vitesses caractéristiques de plasma très inférieures à la vitesse de la lumière, conduisant ainsi à la seconde équation relevante pour la MHD:
-  * Equation 2E: $$\boxed{\nabla \times \vec B = \mu_0 \vec j} $$
+* La seconde équation est celle Maxwell-Ampère qui relie le champ magnétique $\vec B$ à la densité de courant $\vec J$: $\nabla \times \vec B = \mu_0 \vec J + \mu_0 \epsilon_0 \frac {\partial \vec E} {\partial t}$. Le second terme appelé courant de déplacement est négligeable si on s'intéresse à des vitesses caractéristiques de plasma très inférieures à la vitesse de la lumière, conduisant ainsi à la seconde équation relevante pour la MHD:
+  * Equation 2E: $$\boxed{\nabla \times \vec B = \mu_0 \vec J} $$
 
 * La troisième équation est celle de Maxwell-Faraday (rendant compte des phénomènes d'induction),
   * Equation 3E: $$\boxed{\nabla \times \vec E = - \frac {\partial \vec B} {\partial t} } $$
