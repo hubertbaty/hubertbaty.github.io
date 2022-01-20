@@ -50,3 +50,6 @@ Couplage partie électromagnétique & partie hydrodynamique
 ======
 * La densité de courant électrique $\vec J$ et le champ magnétique $\vec B$ interviennent dans la partie hydrodynamique (Equation 2) au travers de la densité de force magnétique $\vec J \times \vec B$, c'est la rétro-action de la partie électromagnétique sur partie hydrodynamique. Cependant, il manque la rétro-action inverse, celle de la partie hydrodynamique sur la partie électromagnétique. Celle ci résulte de la loi d'Ohm, qui exprime que la densité de courant est proportionnelle au champ électrique $\vec E$ augmenté d'un champ électrique $V \times \vec B)$ d'un milieu animé d'une vitesse $\vec V$,
   * Loi d'Ohm: $\vec J = \sigma (\vec E + \vec V \times \vec B) $ (\sigma étant la conductivité électrique)
+
+* Ce qui peut se résumer en combinant la loi d'ohm avec l'équation de Maxwell-Faraday en,
+  * 
