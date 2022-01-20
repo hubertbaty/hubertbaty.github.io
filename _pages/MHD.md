@@ -41,7 +41,7 @@ Les équations de base de la MHD (partie électromagnétique)
   * Equation 2E: $$\boxed{\nabla \times \vec B = \mu_0 \vec j} $$
 
 * La troisième équation est celle de Maxwell-Faraday (rendant compte des phénomènes d'induction),
-  * Equation 3E: $$\boxed{\nabla \times \vec E = - \frac {\partial \vec B} {\partial t}$
+  * Equation 3E: $$\boxed{\nabla \times \vec E = - \frac {\partial \vec B} {\partial t} } $$
 
 * La quatrième équation exprime tout simplement la propriété de divergence nulle (dite aussi propriété solénoïdale) du champ magnétique,
   * Equation 4E: $$\boxed{\nabla . \vec B = 0} $$
