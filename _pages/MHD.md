@@ -40,3 +40,6 @@ Les équations de base de la MHD (partie électromagnétique)
 * La seconde équation est celle Maxwell-Ampère qui relie le champ magnétique $\vec B$ à la densité de courant $\vec j$: $\nabla \times \vec B = \mu_0 \vec j + \mu_0 \epsilon_0 \frac {\partial \vec E} {\partial t}$. Le second terme appelé courant de déplacement est négligeable si on s'intéresse à des vitesses caractéristiques de plasma très inférieures à la vitesse de la lumière, conduisant ainsi à la seconde équation relevante pour la MHD:
   * Equation 2E: $\nabla \times \vec B = \mu_0 \vec j$
 
+* La troisième est celle de Maxwell-Faraday (rendant compte des phénomènes d'induction),
+  * Equation3E: $\nabla \times \vec E = - \frac {\partial \vec B} {\partial t}$.
+
