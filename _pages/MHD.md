@@ -46,3 +46,5 @@ Les équations de base de la MHD (partie électromagnétique)
 * La quatrième équation exprime tout simplement la propriété de divergence nulle (dite aussi propriété solénoïdale) du champ magnétique,
   * Equation 4E: $$\boxed{\nabla . \vec B = 0} $$
 
+Couplage partie électromagnétique & partie hydrodynamique
+======
