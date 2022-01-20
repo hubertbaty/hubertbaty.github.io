@@ -52,4 +52,4 @@ Couplage partie électromagnétique & partie hydrodynamique
   * Loi d'Ohm: $\vec J = \sigma (\vec E + \vec V \times \vec B) $ ($\sigma$ étant la conductivité électrique)
 
 * Ce qui peut se résumer en combinant la loi d'ohm avec l'équation de Maxwell-Faraday en,
-  * 
+  * $ $
