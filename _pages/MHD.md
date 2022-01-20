@@ -34,5 +34,6 @@ pour le flux associé, et les termes sources qui sont toutes les densités de fo
 
 Les équations de base de la MHD (partie électromagnétique)
 ======
-* La première équation de Maxwell (dans l'approximation du vide) est celle de Gauss-Maxwell qui relie le champ électrique $\vec E$ à la densité volumique de charge $\rho_c$: $\nabla . \vec E = \rho_c/\epsilon_0$.
+* La première équation de Maxwell (dans l'approximation du vide) est celle de Gauss-Maxwell qui relie le champ électrique $\vec E$ à la densité volumique de charge $\rho_c$ en chaque point de l'espace: $\nabla . \vec E = \rho_c/\epsilon_0$. Pour un plasma de type fluide, dont la description est valide sur des échelles spatiales plus grandes que les échelles caractéristiques des particules, la densité de charge est considérée comme nulle (c'est la quasi-neutralité) conuisant ainsi à la première équation:
+* Equation 1E:
  
