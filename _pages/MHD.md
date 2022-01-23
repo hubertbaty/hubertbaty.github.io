@@ -52,5 +52,5 @@ Couplage partie électromagnétique & partie hydrodynamique
   * Loi d'Ohm: $\vec J = \sigma (\vec E + \vec V \times \vec B) $ ($\sigma$ étant la conductivité électrique)
 
 * Ce qui peut se résumer en combinant la loi d'ohm avec l'équation de Maxwell-Faraday en,
-  * $$\boxed{\frac{\partial \vec{B}} {\partial t} = \nabla \times (\vec{V}  \times \vec{B}) - \nabla \times (\vec{J}/\sigma) $$,
+  * $$\boxed{\frac{\partial \vec{B}} {\partial t} = \nabla \times (\vec{V}  \times \vec{B}) - \nabla \times (\vec{J}/\sigma)} $$,
   * et plus précisément pour une conductivité uniforme (en posant $\eta = 1/(\mu_0 \eta)$,$ \frac{\partial \vec{B}} {\partial t} = \nabla \times (\vec{V}  \times \vec{B}) +  \eta \nabla^2 \vec{B}$
