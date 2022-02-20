@@ -62,3 +62,7 @@ A quoi peut servir la MHD ?
 
 * Les solutions générales obéissent quand même à certaines propriétés. En effet, on peut tout d'abord montrer que le vecteur champ magnétique $\vec B$ ainsi que le vecteur densité de courant $\vec J$ appartiennent à des surfaces (appelées surfaces magnétiques) sur lesquelles la pression thermique $P$ est constante (découle de $\nabla P . \vec B = 0$ et de $\nabla P . \vec J = 0$). Ainsi, les lignes de champ du champ et du courant s'enroulent sur ces surfaces en faisant un certain angle non nul (sauf si le gradient de pression est nul), comme représenté sur la figure ci-dessous pour des surfaces de type toriques emboîtées les unes dans les autres.
   * Dans le cas de la couronne solaire, le gradient de pression thermique est négligeable conduisant alors aux équilibres dits 'force-free' (ou sans force) avec, $\vec J = \alpha \vec B$, où $\alpha$ est fonction de l'espace (le cas $\alpha = cste$ étant un cas particulier dit linéaire sans force). Un autre cas dit 'current-free' (ou sans courant) est parfois aussi envisagé car $\vec J$ est nul. Dans ce dernier cas, celà ne signifie pas qu'il n'y a pas de champ magnétique, car celui ci peut être bien sûr créé par une source de courant éloignée de la structure. 
+  
+![](/images/equi.png)
+
+(Figure ...)
