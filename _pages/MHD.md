@@ -70,3 +70,6 @@ A quoi peut servir la MHD ?
 * La MHD sert aussi à modéliser des instabilités se développant sur des échelles macroscopiques (grandes devant les échelles spatiales caractéristiques associées aux particules du plasma), ainsi que le mécanisme de reconnexion magnétique associé (voir autres pages de ce blog et notamment ma recherche).
 
 
+Instabilités magnétohydrodynamiques et reconnexion magnétique
+======
+* Un ouvrage est actuellement en préparation sur ce sujet.
