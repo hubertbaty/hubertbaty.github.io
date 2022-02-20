@@ -57,3 +57,4 @@ Couplage partie électromagnétique & partie hydrodynamique
 
 A quoi peut servir la MHD ?
 ======
+* Elle est utile pour calculer des équilibres statiques. Les équilibres MHD statiques (ou du moins des configurations proches) sont réalisés dans la couronne solaire en dehors des période d'activité intense et/ou de régions actives (donnant des éruptions). C'est aussi le cas dans les machines à fusion magnétique prinicpalement en dehors des instabilités. 
