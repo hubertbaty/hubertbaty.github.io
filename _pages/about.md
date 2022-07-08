@@ -44,8 +44,3 @@ Ce blog n'est pas destiné à mon auto-promotion mais à faire connaître ma dis
 [ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo](#)
 
 
-
-## Notions générales sur la MHD
-En cours de rédaction actuellement (février 2022) ... dans l'onglet correspondant !
-
-
