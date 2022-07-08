@@ -72,4 +72,4 @@ A quoi peut servir la MHD ?
 
 Instabilités magnétohydrodynamiques et reconnexion magnétique
 ======
-* Un ouvrage est actuellement en préparation sur ce sujet.
+* Un document/ouvrage est disponible sur HAL -> https://hal.archives-ouvertes.fr/hal-03711796
