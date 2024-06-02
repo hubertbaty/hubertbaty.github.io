@@ -38,6 +38,7 @@ dans deux directions et différences finies pour la troisième), collaboration C
 * Développement d'un code de calcul en Fortran nommé SCYL pour la MHD appliquée aux boucles solaires (adaptation de XTOR)
 * Développement d'un code en Fortran pour la MHD réduite, utilisant la méthode hyperbolique (schéma aux volumes finis à capture de choc), collaboration avec Hiroaki Nishikawa (HAMPTON, USA)
 * Développement d'un code avec Freefem++ (basé sur C++) pour la MHD réduite nommé FINMHD
+* Développement de codes basés sur le Deep Learning et les réseaux neuronaux pour résoudre les équations différentielles - Méthodes PINNs (Physics Informed Neural Networks)
 * Utilisations de nombreux autres codes (Fortran et C++) MHD développés par des collaborateurs, principalement des codes aux volumes finis à capture de chocs (Solvers de Riemann) tels que AMRVAC, PLUTO, ...
 * Développement de nombreux programmes et codes linéaires pour tester des méthodes numériques et pour l'enseignement, écrits en langage Fortran, C++, et Matlab
 * Utilisation régulier de différentes plateformes nationales de calculs: du CNRS (IDRIS) et du CINES (Montpellier), notamment sur super-calculateurs (CRAY, NEC) de 1989 à 2002, puis de 2003 à 2006, et en 2013. Utilisateur de l’HPC (Méso-centre de calcul haute-performance de Strasbourg), depuis 2013.
