@@ -59,8 +59,8 @@ Enseignement
 Encadrement d'étudiants
 ======
 * Thèses de Doctorat: Mattéo Bocchi (2006-2009) en co-encadrement avec financement européen JETSET, Tohir Akramov (2014-2017) avec financement IDEX.
-* Une dizaine de stages Bac+4 et Bac+5
+* Une vingtaine de stages de Bac+3 et Bac+5
 
 Responsabilités passées diverses et variées
 ======
-* Chef d'équipe de recherche pendant 4 ans (2010-2013), membre du Conseil National des Universités (section 34) pendant 4 ans (2011-2015), membre de la société Française de Physique (division plasmas) pendant 4 ans (2005-2009). Membres de plusieurs réseaux de recherche Français et Européens, ...
+* Responsable d'équipe de recherche pendant 4 ans (2010-2013), membre du Conseil National des Universités (section 34) pendant 4 ans (2011-2015), membre de la société Française de Physique (division plasmas) pendant 4 ans (2005-2009). Membres de plusieurs réseaux de recherche Français et Européens, ...
